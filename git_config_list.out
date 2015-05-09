@@ -1,0 +1,16 @@
+user.name=Tomas Skalicky
+user.email=skalicky.tomas@gmail.com
+push.default=simple
+core.editor=vim
+core.autocrlf=input
+pull.rebase=true
+rerere.enabled=true
+color.ui=always
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:tomas-skalicky/git_playground.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
